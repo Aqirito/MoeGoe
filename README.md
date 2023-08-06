@@ -2,6 +2,9 @@
 - [MoeGoe_GUI](https://github.com/CjangCjengh/MoeGoe_GUI)
 - [Pretrained models](https://github.com/CjangCjengh/TTSModels)
 
+Tested in Windows
+- Python 3.10.5
+
 # How to use
 Run MoeGoe.exe
 ```
